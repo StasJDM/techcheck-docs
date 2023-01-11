@@ -1,0 +1,20 @@
+{
+  "name": "techcheck-docs",
+  "version": "1.0.0",
+  "description": "TechCheck App documentation based on docsify",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "author": {
+    "name": "Stanislav Pyatnicyn",
+    "email": "pyatnicyn.stanislav@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "docsify": "^4.13.0"
+  },
+  "scripts": {
+    "serve": "docsify serve docs"
+  }
+}
